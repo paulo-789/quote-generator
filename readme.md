@@ -19,7 +19,7 @@ A web application that generates quotes
 
 ## Live Link
 
-https://paulo-789.github.io/Akan-Names-generator/.
+https://paulo-789.github.io/quote-generator/
 
 ## Technologies used
 * HTML 5-For the structuring .
